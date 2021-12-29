@@ -18,11 +18,8 @@ header h1 {
   padding: 15px 15px 15px 15px;
   text-transform: uppercase;
 }
-header h1 a {
+header h1 {
   transition: 0.3s;
-}
-header h1 a:hover {
-  color: #e74c3c;
 }
 header ul {
   float: right;
